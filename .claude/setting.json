@@ -1,0 +1,8 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
+    "ANTHROPIC_AUTH_TOKEN": "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",
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_MODEL": "google/gemma-4-31b-it:free"
+  }
+}
